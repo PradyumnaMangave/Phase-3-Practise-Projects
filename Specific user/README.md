@@ -47,7 +47,4 @@ Here is a potential list of JSPs for the project. (feel free to modify)
  * Edit form for User
  * Confirmation JSP
 
-### Info
-
- * Due Date: 2021-03-16
  
